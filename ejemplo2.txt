@@ -1,0 +1,8 @@
+<iostream>
+using namespaces std;
+
+main(){
+
+cout<<"Hola mundo"<< endl;
+
+}
